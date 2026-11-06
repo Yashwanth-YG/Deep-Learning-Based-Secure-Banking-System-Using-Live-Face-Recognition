@@ -1,0 +1,11 @@
+venv/
+venv310/
+__pycache__/
+*.pyc
+.env
+records.csv
+transactions.csv
+log.txt
+db/
+*.zip
+*.log
